@@ -16,7 +16,7 @@ var stationID = "KRDU";
 
 var greeting = "";
 var dateFull = "";
-const customName = "Jack";
+const customName = "Eric";
 
 var today = new Date();
 
